@@ -58,25 +58,20 @@
 
 يعمل هذا الـ Backend ضمن نظام CardioGuard المتكامل:
 
-### 📱 تطبيق Android
-**[CardioGuard Android App](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App)**
-- تطبيق أصلي بـ Kotlin و Jetpack Compose
-- واجهة مستخدم حديثة وسهلة الاستخدام
-- يدعم اللغتين العربية والإنجليزية
-- متاح على Google Play Store
+<div align="center">
 
-### 🌐 واجهة الويب
-**[CardioGuard Web Frontend](https://github.com/HazemAlhajIhmid/Master-Thesis--CardioGuard---Early-Detection-of-Heart-Disease-System)**
-- مبني بـ SvelteKit و TypeScript
-- تصميم responsive ومتوافق مع جميع الأجهزة
-- منشور على Vercel
-- [تجربة الموقع المباشر](https://heart-disease-detection.vercel.app/)
+| المشروع | التقنية | الرابط | الحالة |
+|:-------:|:-------:|:------:|:------:|
+| 🏠 Hub | Documentation | **[CardioGuard-Hub](https://github.com/HazemAlhajIhmid/CardioGuard-Hub)** | 📚 Docs |
+| 🌐 Frontend | SvelteKit | **[Web App](https://github.com/HazemAlhajIhmid/Master-Thesis--CardioGuard---Early-Detection-of-Heart-Disease-System)** | ✅ Live |
+| 🖥️ Backend | ASP.NET Core | **[Backend API](https://github.com/HazemAlhajIhmid/CardioGuard-Backend-API)** | ✅ Live |
+| 📱 Android | Kotlin | **[Android App](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App)** | ✅ Live |
 
-### 🏥 Backend API (هذا المشروع)
-- واجهة برمجية RESTful بـ ASP.NET Core 8.0
-- ثلاثة نماذج تعلم آلي بـ ML.NET
-- منشور على Azure
-- [تجربة API المباشر](https://cardioguard-api.azurewebsites.net/swagger)
+**🌐 Live Demos:**
+- Frontend: [heart-disease-detection.vercel.app](https://heart-disease-detection.vercel.app/)
+- Backend API: [cardioguard-api.azurewebsites.net/swagger](https://cardioguard-api.azurewebsites.net/swagger)
+
+</div>
 
 ---
 
