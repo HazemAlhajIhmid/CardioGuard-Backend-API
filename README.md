@@ -68,7 +68,7 @@
 | 📱 Android | Kotlin | **[Android App](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App)** | ✅ Live |
 
 **🌐 Live Demos:**
-- Frontend: [heart-disease-detection.vercel.app](https://heart-disease-detection.vercel.app/)
+- Frontend: [heart-disease-detection.vercel.app](https://master-thesis-cardio-guard-early-de.vercel.app/)
 - Backend API: [cardioguard-api.azurewebsites.net/swagger](https://cardioguard-api.azurewebsites.net/swagger)
 
 </div>
