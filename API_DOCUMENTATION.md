@@ -38,13 +38,13 @@ http://localhost:5000
 
 ### بيئة الإنتاج (Production)
 ```
-https://cardioguard-api.azurewebsites.net
+https://cardio-guard-api-prod-b2a0cfdbe9czbkgx.norwayeast-01.azurewebsites.net
 ```
 
 ### Swagger UI
 ```
 http://localhost:5000/swagger        # Development
-https://cardioguard-api.azurewebsites.net/swagger  # Production
+https://cardio-guard-api-prod-b2a0cfdbe9czbkgx.norwayeast-01.azurewebsites.net/swagger/index.html  # Production
 ```
 
 ---

@@ -14,7 +14,7 @@
 **[📱 Android App](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App)** • 
 **[🌐 Web Frontend](https://github.com/HazemAlhajIhmid/Master-Thesis--CardioGuard---Early-Detection-of-Heart-Disease-System)** • 
 **[📖 Documentation](#-التوثيق)** • 
-**[🚀 Live Demo](https://cardioguard-api.azurewebsites.net/swagger)**
+**[🚀 Live Demo](https://cardio-guard-api-prod-b2a0cfdbe9czbkgx.norwayeast-01.azurewebsites.net/swagger/index.html)**
 
 </div>
 
@@ -69,7 +69,7 @@
 
 **🌐 Live Demos:**
 - Frontend: [heart-disease-detection.vercel.app](https://master-thesis-cardio-guard-early-de.vercel.app/)
-- Backend API: [cardioguard-api.azurewebsites.net/swagger](https://cardioguard-api.azurewebsites.net/swagger)
+- Backend API: [cardio-guard-api-prod-b2a0cfdbe9czbkgx.norwayeast-01.azurewebsites.net/swagger](https://cardio-guard-api-prod-b2a0cfdbe9czbkgx.norwayeast-01.azurewebsites.net/swagger/index.html)
 - Android APK: [Download v1.2.1](https://github.com/HazemAlhajIhmid/CardioGuard-Android-App/releases/tag/V1.2.1)
 
 </div>
